@@ -64,7 +64,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 | 📈 GitHub | 💻 Languages | 📫 Contact |
 |-----------|--------------|-----------|
-| *(GitHub Stats Card Here)* | PowerShell<br>Python<br>Bash | **LinkedIn:** https://linkedin.com/in/your-profile<br>**Email:** your@email.com |
+| *(GitHub Stats Card Here)* | PowerShell<br>Python<br>Bash | **LinkedIn:** [Click Here](https://www.linkedin.com/in/aliu-b-sanusi/)<br>**Email:** ben@gmail.com |
 
 ---
 
