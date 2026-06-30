@@ -40,12 +40,13 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 # ⭐ Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🏠 Home Lab | Multi-VM Cybersecurity Lab |
-| 🔐 AD CS | Enterprise Certificate Services |
-| 👥 Active Directory GPO | Secure Group Policy Configuration |
-| ☁ AWS IAM | Identity & Access Management |
+| Project | Description |Link|
+|---------|-------------|--------------|
+| 🏠 Home Lab | Multi-VM Cybersecurity Lab | [View Project]()
+| 🏠 Network Segmentation | Implementing Subnetting in the Muli-Vm CYbersecurity Lab | [View Project]()
+| 🔐 AD CS | Enterprise Certificate Services |[View Project]()
+| 👥 Active Directory GPO | Secure Group Policy Configuration |[View Project]()
+| ☁ AWS IAM | Identity & Access Management |[View Project]()
 | ☁ Azure IAM | Microsoft Entra Identity |
 | 🐧 Linux IAM | User & Permission Management |
 | 🛡 Nessus | Network Vulnerability Management |
