@@ -1,7 +1,7 @@
 
 <!-- ======================= BANNER ======================= -->
 
-<h1 align="center">Hi, I'm Sam Ben</h1>
+<h1 align="center">Hi, I'm Alex sam</h1>
 
 <h3 align="center">
 Cybersecurity Analyst | IAM | Cloud Security | Vulnerability Management | Detection Engineering
