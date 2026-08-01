@@ -40,23 +40,23 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 # ⭐ Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🏠 Home Lab | Multi-VM Cybersecurity Lab |
-| 🔐 AD CS | Enterprise Certificate Services |
-| 👥 Active Directory GPO | Secure Group Policy Configuration |
-| ☁ AWS IAM | Identity & Access Management |
-| ☁ Azure IAM | Microsoft Entra Identity |
-| 🐧 Linux IAM | User & Permission Management |
-| 🛡 Nessus | Network Vulnerability Management |
-| 📊 Qualys | Enterprise Vulnerability Management |
-| ☁ Prowler | AWS Cloud Security Assessment |
-| 🎯 Penetration Testing | Network & Web Security Testing |
-| 📈 Splunk SIEM | Detection & Monitoring |
-| 🔎 MITRE ATT&CK | Threat Hunting & Detection |
-| 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls |
-| 📧 Zphisher | Security Awareness Simulation |
-| 🦠 Malware Analysis | Static & Dynamic Analysis |
+| Project | Description | Project Link |
+|---------|-------------|--------------|
+| 🏠 Home Lab | Multi-VM Cybersecurity Lab | [View Project]() |
+| 🔐 AD CS | Enterprise Certificate Services |[View Project]() |
+| 👥 Active Directory GPO | Secure Group Policy Configuration |[View Project]() |
+| ☁ AWS IAM | Identity & Access Management | [View Project]() |
+| ☁ Azure IAM | Microsoft Entra Identity |[View Project]() |
+| 🐧 Linux IAM | User & Permission Management |[View Project]() |
+| 🛡 Nessus | Network Vulnerability Management |[View Project]() |
+| 📊 Qualys | Enterprise Vulnerability Management |[View Project]() |
+| ☁ Prowler | AWS Cloud Security Assessment |[View Project]() |
+| 🎯 Penetration Testing | Network & Web Security Testing |[View Project]() |
+| 📈 Splunk SIEM | Detection & Monitoring |[View Project]() |
+| 🔎 MITRE ATT&CK | Threat Hunting & Detection |[View Project]() |
+| 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls |[View Project]() |
+| 📧 Zphisher | Security Awareness Simulation |[View Project]() |
+| 🦠 Malware Analysis | Static & Dynamic Analysis |[View Project]() |
 
 ---
 
