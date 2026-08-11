@@ -44,7 +44,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 |---------|-------------|--------------|
 | 🏠 Home Lab | Multi-VM Cybersecurity Lab | [View Project](https://github.com/sanusi-droid/Multi-VM-Cybersecurity-Lab) |
 | Network Segmentation | Segregation of Netwroks | [View Project](https://github.com/sanusi-droid/Multi-VM-Cybersecurity-Lab) |
-| 🔐 AD CS | Enterprise Certificate Services |[View Project](https://github.com/sanusi-droid/AD-CS) |
+| 🔐 IAM on-prem | Identity & Access Management Using Active DIrectory |[View Project](https://github.com/sanusi-droid/AD-CS) |
 | 👥 Active Directory GPO | Secure Group Policy Configuration |[View Project]() |
 | ☁ AWS IAM | Identity & Access Management | [View Project]() |
 | ☁ Azure IAM | Microsoft Entra Identity |[View Project]() |
