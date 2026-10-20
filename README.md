@@ -56,6 +56,7 @@
 | Folder | Description | Link |
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+| 01-NETWORKING PROJECT | what it is all about  | [View Repo](#) |
 | 02-IAM-On-Prem ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | 03-AWS IAM & CLOUD SECURITY | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/sanusi-droid/AWS-IAM-CLOUD-SECURITY/tree/main) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
