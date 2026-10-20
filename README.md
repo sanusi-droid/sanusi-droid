@@ -57,7 +57,7 @@
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
 | 02-IAM-On-Prem ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
-| 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](#) |
+| 03-AWS IAM & CLOUD SECURITY | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/sanusi-droid/AWS-IAM-CLOUD-SECURITY/tree/main) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
