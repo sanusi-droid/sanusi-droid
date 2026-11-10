@@ -14,6 +14,11 @@ Beyond my professional experience, I have independently developed technical proj
 
 This GitHub portfolio showcases **my professional experience, technical implementations, documented security activities, and independent projects**, highlighting how I apply IAM principles to strengthen identity security, enforce least-privilege access, and support effective identity governance.
 
+## Work Experience
+| Job title | Period | Location|
+|----------|---------|----------|
+
+
 
 ## work experience | Halisans Technologies
 
@@ -36,7 +41,7 @@ This GitHub portfolio showcases **my professional experience, technical implemen
 
 - Configured and evaluated security group permissions for HLS-SOC and other organizational groups to support role-based access and least-privilege principles.
 
-- Implemented access control documentation, RBAC entitlement matrices, and user access review records to support consistent identity governance and audit readiness.
+- Implemented access control documentation, RBAC entitlement matrices, and user access review records to upport consistent identity governance and audit readiness.
 
 ## Featured case studies
 
