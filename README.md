@@ -1,8 +1,8 @@
-# [YOUR NAME] | Identity & Access Management Analyst
+# Alex Felix | Identity & Access Management Analyst
 
 **Identity Governance | Active Directory | Microsoft Entra ID | RBAC**
 
-📍 [Location] · [LinkedIn URL] · [Professional Email] · [Resume URL]
+📍 Qatar · linkedin.com/sanusi · aliu@halisans.com 
 
 ## Professional profile
 
@@ -18,8 +18,8 @@ This GitHub portfolio showcases **my professional experience, technical implemen
 ## work experience | Halisans Technologies
 
 **Role:** IAM Analyst  
-**Period:** [Month YYYY – Present / End date]  
-**Environment:** [Training lab / supervised internal operations / production, as applicable]
+**Period:** 2003-2010
+**Environment:** Cybersecurity Operations
 
 **Responsibilities:**
 
@@ -47,33 +47,36 @@ This GitHub portfolio showcases **my professional experience, technical implemen
 | [RBAC & Least Privilege](./case-studies/03-rbac-and-least-privilege/README.md) | Implemented an entitlement matrix and validate group/role assignments. |
 | [AD and Entra ID Administration](./case-studies/04-ad-and-entra-id-administration/README.md) | Documented identity configuration, GPOs and secure access controls. |
 
-## Independent technical projects
+## Technical projects
 
 | Project | What I built | Evidence |
 |---|---|---|
-| [Independent project 1] | [Architecture, configuration, or process] | [Repository link] |
+| IAM on Active Directory | Domain Controller with Active Users  | [Repository link] |
 | [Independent project 2] | [Tested solution and lessons learned] | [Repository link] |
 
 ## Technical capabilities
 
-Active Directory, Microsoft Entra ID, RBAC, PowerShell, Jira Service Management, Microsoft Defender
+- Active Directory
+- Microsoft Entra ID
+- RBAC
+- PowerShell
+- Jira Service Management
+- Microsoft Defender
 
 ## Evidence and documentation standards
 
-Every featured case study includes a scenario, scope and authorization, my individual contribution, methodology, sanitized evidence, analysis, result, limitations, and lessons learned. Screenshots alone do not demonstrate outcomes.
+Every featured case study includes a scenario, scope and authorization, my individual contribution, methodology, sanitized evidence, analysis, result, limitations, and lessons learned.
 
 **Confidentiality:** No real credentials, tokens, internal IPs, customer data, sensitive alerts, personal identifiers, or unapproved screenshots. Use synthetic or redacted evidence. Publish only materials approved for external sharing.
 
 ## Professional development
 
 - **Frameworks and standards:** NIST CSF| ISO 27001
-- **Certifications / courses:** 
+- **Certifications / courses:** Comptia Sec+, IEC/ISO 27001 Lead Implementer
 
 ## Contact
 
 - **LinkedIn:** [URL]
 - **Email:** [Professional email]
-- **GitHub:** [Profile URL]
 
----
-*All cases are labeled as simulated, supervised, or operational as appropriate. All outcomes are evidence-backed.*
+
