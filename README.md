@@ -15,10 +15,10 @@ Beyond my professional experience, I have independently developed technical proj
 This GitHub portfolio showcases **my professional experience, technical implementations, documented security activities, and independent projects**, highlighting how I apply IAM principles to strengthen identity security, enforce least-privilege access, and support effective identity governance.
 
 ## Work Experience
-| Job title | Period | Location|
-|----------|---------|----------|
-|SOC Analyst| 2001-2003| US|
-|SOC/IAM Analyst| 2003-2006| UK|
+| Job title | Period | Location| Details|
+|----------|---------|----------|--------|
+|SOC Analyst| 2001-2003| US| Iworked as an analys|
+|SOC/IAM Analyst| 2003-2006| UK| I worked as a SOC|
 
 
 
