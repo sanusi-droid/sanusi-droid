@@ -49,7 +49,7 @@ This GitHub portfolio showcases **my professional experience, technical implemen
 
 | Case study | What the reviewer will learn |
 |---|---|
-| [Joiner–Mover–Leaver Workflow](./case-studies/01-joiner-mover-leaver-workflow/README.md) | Documented authorized provisioning, changes and deprovisioning with approval and closure evidence. |
+| [Joiner–Mover–Leaver Workflow](https://github.com/sanusi-droid/Joiner-Mover-Leaver-Workflow) | Documented authorized provisioning, changes and deprovisioning with approval and closure evidence. |
 | [Quarterly Access Review](./case-studies/02-quarterly-access-review/README.md) | Reviewed entitlements, flag exceptions, record owner decisions and track remediation. |
 | [RBAC & Least Privilege](./case-studies/03-rbac-and-least-privilege/README.md) | Implemented an entitlement matrix and validate group/role assignments. |
 | [AD and Entra ID Administration](./case-studies/04-ad-and-entra-id-administration/README.md) | Documented identity configuration, GPOs and secure access controls. |
