@@ -18,6 +18,7 @@ This GitHub portfolio showcases **my professional experience, technical implemen
 | Job title | Period | Location|
 |----------|---------|----------|
 |SOC Analyst| 2001-2003| US|
+|SOC/IAM Analyst| 2003-2006| UK|
 
 
 
